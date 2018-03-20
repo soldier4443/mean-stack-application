@@ -1,4 +1,4 @@
 module.exports = {
-    database: "mongodb://tura:tura@ds119565.mlab.com:19565/mean_auth_app",
+    database: "mongodb://localhost:27017/meanauth",
     secret: "tura_is_god"
 };
